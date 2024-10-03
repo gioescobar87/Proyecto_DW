@@ -1,5 +1,14 @@
 # Proyecto_DW
 
+COMANDOS GIT
+git add [ruta/nombre_archivo.ext]  -------Adición de archivo a versionar, colocar toda la ruta desde el punto donde está la terminal, hasta la ubicación del archivo.
+git commit -m "Mensaje de commit"  -------Commit de archivo y comentario
+git push origin [nombre_rama]      -------Confirmar cambios al repositorio en una rama específica
+GITHUB: Confirmar cambios (Merge)  -------Confirmar cambios en el repositorio, se hace desde GitHub y es un proceso manual
+git checkout [nombre_rama]         -------Cambiar de rama
+git status                         -------Verificar sobre qué rama estamos trabajando
+git pull origin main               -------Jalar cambios de la rama principal
+
 ********************************************
 npx create-react-app instagram-clone
 Downloads a template React app with basic configuration.
